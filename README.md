@@ -19,7 +19,7 @@ I'm an adventurous tech enthusiast with a focus on Web Development, DevOps, and 
 
   <div align="center">
   <!-- Github link -->
-    <a href="https://github.com/RaghavAlways" target="_blank">
+    <a href="https://github.com/Raghav" target="_blank">
       <img src=https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
     <!-- Linkedin Link -->
@@ -30,7 +30,7 @@ I'm an adventurous tech enthusiast with a focus on Web Development, DevOps, and 
     <a href="" target="_blank">
       <img src=https://img.shields.io/badge/X(twitter)-%232E3440.svg?&style=for-the-badge&logo=x&logoColor=white alt=x(twitter) style="margin-bottom: 5px;" />
     </a>
-    <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FRaghavAlways">
+    <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FRaghav">
       <img src=https://img.shields.io/badge/follow-%232E87FB.svg?&style=for-the-badge&logo=&logoColor=white alt=follow style="margin-bottom: 5px;" />
     </a>
   </div>
@@ -183,11 +183,11 @@ I'm an adventurous tech enthusiast with a focus on Web Development, DevOps, and 
 <h1 align="center">GitHub Statistics</h1>
 <table>
 	<tr>
-		<td colspan = "2"><a><img src="https://github-readme-activity-graph.vercel.app/graph?username=RaghavAlways&bg_color=06040e&point=false&line=bd83b8&radius=8&area=true&area_color=473e66&title_color=ffffff&color=f1916d"></a></td>
+		<td colspan = "2"><a><img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghav&bg_color=06040e&point=false&line=bd83b8&radius=8&area=true&area_color=473e66&title_color=ffffff&color=f1916d"></a></td>
 	</tr>
 	<tr>
 		<td><a><img src="https://github-readme-streak-stats-two-beige.vercel.app?user=RaghavAlways&theme=javascript-dark&background=45%2C150536%2C520352&border=f1916d&stroke=f1916d&ring=bd83b8&sideLabels=f1916d&fire=f1916d&currStreakLabel=f1916d&dates=ffffff"></a></td>
-		<td><a><img src="http://profile-summary-card.vercel.app/api/cards/profile-details?username=RaghavAlways&theme=dracula"></a></td>
+		<td><a><img src="http://profile-summary-card.vercel.app/api/cards/profile-details?username=Raghav&theme=dracula"></a></td>
 	</tr>
 </table>
 <div align="center">
@@ -212,7 +212,7 @@ I'm an adventurous tech enthusiast with a focus on Web Development, DevOps, and 
 
 <h3 align="left">☕ Support Me!</h3>
 <h3 align="left"> If you enjoy my work, consider buying me a coffee to keep me fueled and coding!</h3>
-<p><a href="https://www.buymeacoffee.com/RaghavAlways"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/rokhisarkar" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/Raghav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/rokhisarkar" /></a></p><br><br>
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?color=D39D55&width=420&lines=Thanks+for+visiting!">
