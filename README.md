@@ -203,7 +203,7 @@ I'm an adventurous tech enthusiast with a focus on Web Development, DevOps, and 
 <!-- View count div -->
 <div align="center">
 <a>
-    <img src="https://komarev.com/ghpvc/?username=amitsarkar76&style=flat-square">
+    <img src="=flat-square">
 </a>
 
 </div>
