@@ -217,7 +217,6 @@ I'm an adventurous tech enthusiast with a focus on Web Development, DevOps, and 
 
 <img src="https://readme-typing-svg.herokuapp.com?color=D39D55&width=420&lines=Thanks+for+visiting!">
 </div>
-###
 
 <br clear="both">
 
