@@ -38,11 +38,9 @@ I'm an adventurous tech enthusiast with a focus on Web Development, DevOps, and 
 
 <!-- My Skill Div -->
 <div align="center">
-
   <details>
 <summary><h1 align="center">My Skills</h1></summary>
-	  
-<div align="left">
+	  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
