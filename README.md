@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Coder GIF" height=350 width=550 src="https://i.imgflip.com/65efzo.gif" />
+<img alt="Coder GIF" height=350 width=550 src="https://ibb.co/5wgpt7M" />
 </div>
 
 <h1 align="center">Hey It's Raghav</h1>
