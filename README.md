@@ -27,7 +27,7 @@ I'm an adventurous tech enthusiast with a focus on Web Development, DevOps, and 
     </a>
     <!-- Twitter link -->
     <a href="https://x.com/Raghavalways" target="_blank">
-      <img src=https://img.shields.io/badge/X(twitter)-%232E3440.svg?&style=for-the-badge&logo=x&logoColor=white alt=x(twitter) style="margin-bottom: 5px;" />
+      <img src=https://ibb.co/3wKqmQ2(teligram)-%232E3440.svg?&style=for-the-badge&logo=x&logoColor=white alt=x(twitter) style="margin-bottom: 5px;" />
     </a>
     <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FRaghavalways">
       <img src=https://img.shields.io/badge/follow-%232E87FB.svg?&style=for-the-badge&logo=&logoColor=white alt=follow style="margin-bottom: 5px;" />
