@@ -1,7 +1,6 @@
 <div align="center">
-<img alt="Coder GIF" height=350 width=550 src="https://ibb.co/8DJY3qv2" />
-</div>
 <a href="https://ibb.co/8DJY3qv2"><img src="https://i.ibb.co/TBZWX6jR/support.webp" alt="support" border="0"></a>
+</div>
 <h1 align="center">Hey It's Raghav</h1>
 
 <div align="center">
